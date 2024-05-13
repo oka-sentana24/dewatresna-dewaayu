@@ -357,7 +357,7 @@
           >
             <p>Putri ketiga dari pasangan</p>
             <p>Dewa Putu Sukra & Desak Putu Oka</p>
-            <p>Br.Sengguan, Desa Bitera, Gianyar</p>
+            <p>Br.Triwangsa, Desa Bitera, Gianyar</p>
           </Saos>
         </div>
       </div>
@@ -404,7 +404,7 @@
                 <span class="block text-center py-5">Pawiwahan</span>
                 <hr />
                 <div class="py-5">
-                  <p class="text-center">Jumat, 17 mei 2024</p>
+                  <p class="text-center">Jumat, 17 Mei 2024</p>
                   <p class="text-center">09.00 WITA</p>
                 </div>
               </Saos>
@@ -438,7 +438,7 @@
 
                 <div class="py-5">
                   <p class="text-center">Jumat, 17 Mei 2024</p>
-                  <p class="text-center">14.00 WITA - Selesai</p>
+                  <p class="text-center">16.00 WITA - Selesai</p>
                 </div>
                 <hr />
                 <h1 class="block text-center py-3">Lokasi</h1>
@@ -446,7 +446,7 @@
                 <p class="text-center py-2">Br. Sema, Desa Bitera, Gianyar</p>
 
                 <button class=" bg-white text-black px-4 py-2 rounded-lg">
-                  <a href="https://maps.app.goo.gl/QXvjqHDiSUdsQvTV8">
+                  <a href="https://maps.app.goo.gl/f96BNWHT7fSFCLDHA">
                     Denah lokasi
                   </a>
                 </button>
