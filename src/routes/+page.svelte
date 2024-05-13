@@ -665,7 +665,7 @@
 
   <footer class="bg-black py-4">
     <div class="container mx-auto text-center">
-      <p class="text-white">&copy; 2024 Dewa Tresna & . All rights reserved.</p>
+      <p class="text-white">&copy; 2024 Dewa Tresna & Dewa Ayu Tirtawati. All rights reserved.</p>
     </div>
   </footer>
 {/if}
