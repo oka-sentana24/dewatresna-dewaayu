@@ -324,7 +324,7 @@
           <Saos
             animation={"scale-in-center 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both"}
           >
-            <p>Putra kedua dari pasangan</p>
+            <p>Putra pertama dari pasangan</p>
             <p>Dewa Nyoman Rai & Cok Istri Sri Trisna Yanti</p>
             <p>Br.Sema, Desa Bitera, Gianyar</p>
           </Saos>
@@ -665,7 +665,9 @@
 
   <footer class="bg-black py-4">
     <div class="container mx-auto text-center">
-      <p class="text-white">&copy; 2024 Dewa Tresna & Dewa Ayu Tirtawati. All rights reserved.</p>
+      <p class="text-white">
+        &copy; 2024 Dewa Tresna & Dewa Ayu Tirtawati. All rights reserved.
+      </p>
     </div>
   </footer>
 {/if}
